@@ -8,6 +8,7 @@ This Solidity contract named contractItemPricer is designed to manage and track 
 
 ## Description Each Statement and Function
 
+# This code is a React application that provides a user interface for managing item prices. 
 pragma solidity ^0.8.0;
 This line specifies that the contract should be compiled using a Solidity compiler version greater than or equal to 0.8.0 and less than 0.9.0.
 
