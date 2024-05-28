@@ -3,8 +3,6 @@
 For this project, create a simple contract with 2-3 functions. Then show the values of those functions in frontend of the application.
 
 
-## Description Each Statement and Function
-
 # This Solidity contract named contractItemPricer is designed to manage and track the prices of items.
 
 pragma solidity ^0.8.0;
